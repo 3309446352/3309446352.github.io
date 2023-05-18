@@ -1,3 +1,4 @@
-http://example.com/2023/05/18/My-New-Post/
+http://example.com/2023/05/18/hxeo1/
 http://example.com/2023/05/17/hello-world/
+http://example.com/README.html
 http://example.com/

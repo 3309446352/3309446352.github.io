@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-05-18T01:03:06.861Z</updated>
+  <updated>2023-05-18T04:02:27.150Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,12 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>My New Post</title>
-    <link href="http://example.com/2023/05/18/My-New-Post/"/>
-    <id>http://example.com/2023/05/18/My-New-Post/</id>
-    <published>2023-05-18T01:03:06.000Z</published>
-    <updated>2023-05-18T01:03:06.861Z</updated>
+    <title>hxeo1</title>
+    <link href="http://example.com/2023/05/18/hxeo1/"/>
+    <id>http://example.com/2023/05/18/hxeo1/</id>
+    <published>2023-05-18T03:47:33.000Z</published>
+    <updated>2023-05-18T04:02:27.150Z</updated>
     
+    <content type="html"><![CDATA[<h1 id="HXEO-写博客的第一次尝试"><a href="#HXEO-写博客的第一次尝试" class="headerlink" title="HXEO 写博客的第一次尝试"></a>HXEO 写博客的第一次尝试</h1><blockquote><p>在站点文件夹中打开 git ，输入如下命令创建文章，其中 我的第一篇博客 为文章的标题。hexo会在source文件夹下创建一个markdowm的文件。这就是你要编写的文章。</p></blockquote><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">Markdown 是一种可以使用普通文本编辑器编写的 标记语言，通过简单的 标记语法，它可以使普通文本内容具有一定的格式</span><br><span class="line">基于 Markdown 语法的简洁性，它已经成为目前世界上最流行的用于书写博客的语言</span><br></pre></td></tr></table></figure><blockquote><p>&#x2F;&#x2F;清理hexo clean&#x2F;&#x2F;构建静态文件hexo g&#x2F;&#x2F;上传至仓库(上传报错多位网络原因，多上传几次即可)hexo d</p></blockquote><h1 id="写文章"><a href="#写文章" class="headerlink" title="写文章"></a>写文章</h1><blockquote><p>$ hexo new “我的第一篇博客”</p></blockquote><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">//清理hexo clean</span><br><span class="line">//构建静态文件hexo g</span><br><span class="line">//上传至仓库(上传报错多位网络原因，多上传几次即可)hexo d</span><br></pre></td></tr></table></figure><h1 id="草稿箱"><a href="#草稿箱" class="headerlink" title="草稿箱"></a>草稿箱</h1><blockquote><p>很多时候我们需要先写成草稿，而暂时不发布出去。draft page就可以满足我们的要求，我们的网站上是看不到草稿文件的。</p></blockquote><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">//新建草稿文件 hexo new draft b</span><br><span class="line">//预览草稿文件hexo server --draft</span><br><span class="line">//发布草稿hexo publish b</span><br></pre></td></tr></table></figure><h1 id="新建页面"><a href="#新建页面" class="headerlink" title="新建页面"></a>新建页面</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new page &quot;resouces&quot;</span><br></pre></td></tr></table></figure><p><img src="https://img-blog.csdnimg.cn/img_convert/4fbdbcd6ca5a9771613fd22917f1a1e1.png" alt="文章列表"> </p><blockquote><p>然后打开主题的配置文件_config.yml，在菜单属性menu中的添加如下（注意不是Hexo的配置文件）<br>将页面路径联接到页面上去</p></blockquote><p><img src="https://img-blog.csdnimg.cn/img_convert/9011b89391152bc01be752ec6fd97d87.png" alt="文章列表">  </p><p><img src="https://img-blog.csdnimg.cn/img_convert/0e2bfe9bfc8f6cca088e8ed42869da7a.png">  </p><blockquote><p>出处 CSDN ：<br><a href="https://blog.csdn.net/weixin_45019350/article/details/121901433?ops_request_misc=&request_id=&biz_id=102&utm_term=hexo%E5%86%99%E5%8D%9A%E5%AE%A2&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-4-121901433.nonecase&spm=1018.2226.3001.4187">https://blog.csdn.net/weixin_45019350/article/details/121901433?ops_request_misc=&amp;request_id=&amp;biz_id=102&amp;utm_term=hexo%E5%86%99%E5%8D%9A%E5%AE%A2&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-4-121901433.nonecase&amp;spm=1018.2226.3001.4187</a></p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;HXEO-写博客的第一次尝试&quot;&gt;&lt;a href=&quot;#HXEO-写博客的第一次尝试&quot; class=&quot;headerlink&quot; title=&quot;HXEO 写博客的第一次尝试&quot;&gt;&lt;/a&gt;HXEO 写博客的第一次尝试&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;在站点文件夹中打开</summary>
+      
     
     
     
