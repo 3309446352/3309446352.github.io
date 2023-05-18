@@ -1,4 +1,3 @@
-http://example.com/2023/05/18/hxeo1/
+http://example.com/2023/05/18/%E5%86%99%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%B0%9D%E8%AF%95%E5%8F%8A%E6%95%99%E7%A8%8B/
 http://example.com/2023/05/17/hello-world/
-http://example.com/README.html
 http://example.com/
